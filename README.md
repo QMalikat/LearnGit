@@ -1,7 +1,6 @@
 "# LearnGit"
 "# LearnGit"
-#Lampen der blev væk
-Lyset forvandt mandag morgen
+#Lyset forvandt mandag morgen
 Drengen hed **Mads**
 Han viste sig at være en stor **kylling**. En rigtig _italiensk_ kylling.
 
@@ -24,3 +23,5 @@ Men _kyllingerne_ viste sig at have en **M32** kombineret med en **RPG** som arb
 Det så sort ud... alt for sort og i hans fortvivelse fik han en ide. **MARS!**
 Han hijacket det først racket som han fandt i hans nabos kælder og efter at have fyldt den op med astma medicin var han på vej....
 PÅ VEJ TIL DEN STORE **GIT**! DET STORE MYSTERIE, SOM INGEN HAVDE LØST. MEN MED DIARHEA I BAGDELEN OG ASTMA MEDICIN I SIN RUMBU, HAR HAN UNLOCKED BUMHANDGETIST OG NÅEDE FREM TIL HANS MÅL.
+**Mads** og kyllingerne endte deres kamp på solen og sådan forsvandt lyset en mandag morgen. 
+Slut
