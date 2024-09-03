@@ -12,3 +12,4 @@ Han viste sig at være en stor **kylling**. En rigtig _italiensk_ kylling.
 # Kylling
 
 **Mads** gik til en grillbar for at canabiliserer en kylling sharwarma.
+Han nød hvert sekund af den
