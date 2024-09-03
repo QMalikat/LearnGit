@@ -1,5 +1,5 @@
 
-# Hvad ved jeg om git koder?
+# Hvad ved jeg om git koder
 
 ## Forbind din konto
 git config --global user.email "you@example.com" \
@@ -18,11 +18,11 @@ Git clone *Link fra Github*
 **touch** *mappenavn.md*  for at oprette et dokument 
 
 ## Pull to Push
-**Pull** trækker alt ned på din lokale computer \
+**git pull** trækker alt ned på din lokale computer \
 **git add .** tilføjer dine ændringer \
 **git commit -m "Valgfri kommentar** godkender dine ændringer \
 **git push** skubber alt op i skyen \
 
 
-## Markdowns kommandoer
+
 
