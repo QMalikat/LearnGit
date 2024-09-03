@@ -13,3 +13,5 @@ Han viste sig at være en stor **kylling**. En rigtig _italiensk_ kylling.
 
 **Mads** gik til en grillbar for at canabiliserer en kylling sharwarma.
 Han nød hvert sekund af den
+**MEN HAN FORTRØD SNART HANS VALG**
+Fordi *Kyllingerne* var på vej for at tage hævn
