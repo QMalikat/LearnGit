@@ -18,4 +18,4 @@ Han viste sig at være en stor **kylling**. En rigtig _italiensk_ kylling.
 Han nød hvert sekund af den
 **MEN HAN FORTRØD SNART HANS VALG**
 Fordi *Kyllingerne* var på vej for at tage hævn
-
+Mads tænkte på hvad han skulle gøre
