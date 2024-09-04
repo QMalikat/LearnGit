@@ -34,4 +34,7 @@ git checkout *Paste branch name* \
 *You can merge branch in Github*
 
 
-
+## Error
+**Another git process seems to be running in this repository**
+rm -f .git/index.lock *reset hidden file and commands*
+Git pull
