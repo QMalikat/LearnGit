@@ -21,8 +21,17 @@ Git clone *Link fra Github*
 **git pull** trækker alt ned på din lokale computer \
 **git add .** tilføjer dine ændringer \
 **git commit -m "Valgfri kommentar** godkender dine ændringer \
-**git push** skubber alt op i skyen \
+**git push** skubber alt op i skyen 
 
+## Make new branch 
+*Github* code menu, branches \
+new branch \
+**Name** source main --> create new branch \
+Copy brach name \
+*Github* git pull *Så den ved at der forfindes en ny branch* \
+git checkout *Paste branch name* \
+*Du er nu i den nye branch* \
+*You can merge branch in Github*
 
 
 
