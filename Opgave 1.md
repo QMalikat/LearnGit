@@ -3,7 +3,7 @@
 
 ## Primær farve
 Lilla \
-Farvekode: #800080
+<span style="color:#800080;">Farvekode: #800080</span>
 
 ## Sekundær 
 Blå \
