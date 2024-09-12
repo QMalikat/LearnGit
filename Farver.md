@@ -2,16 +2,21 @@
 # Opgave 1, Farver
 
 ## Primær farve
-Lilla
+Lilla \
+Farvekode: #800080
 
 ## Sekundær 
-Blå 
+Blå \
+Farvekode: #0000FF
+
 
 ## Tertriary
-Rød 
+Rød \
+Farvekode: #FF0000
 
 ## Complementary
-Gul 
+Gul \
+Farvekode: #FFFF00
 
 ## Hue og Lumen
 Med hue kan jeg skabe flere farver. \
