@@ -1,40 +1,23 @@
 
-# Hvad ved jeg om git koder
+# Opgave 1, Farver
 
-## Forbind din konto
-git config --global user.email "you@example.com" \
-git config --global user.name "Your Name" 
+## Primær farve
+Lilla\
 
-## Vælg handlingssted 
-**cd c:**  for at vælge dit c drev \
-**ls**   for at vise alle mulige mapper \
-**cd** *mappenavn*  for at vælge en bestemt mappe 
+## Sekundær 
+Blå \
 
-### Download dit Repositori
-Git clone *Link fra Github* 
+## Tertriary
+Rød \
 
-## Opret mappe og dokumenter 
-**mkdir** *Mappenavn*  for at oprette en mappe \
-**touch** *mappenavn.md*  for at oprette et dokument 
+## Complementary
+Gul \
 
-## Pull to Push
-**git pull** trækker alt ned på din lokale computer \
-**git add .** tilføjer dine ændringer \
-**git commit -m "Valgfri kommentar** godkender dine ændringer \
-**git push** skubber alt op i skyen 
+## Hue og Lumen
+Med hue kan jeg skabe flere farver. \
+Min sekundær **Blå** og complementary **Gul** vil eksempelvis give mig **Grøn.** \
+Min primær **Lilla** og min tertriary **rød** vil give **Magenta** \
 
-## Make new branch 
-*Github* code menu, branches \
-new branch \
-**Name** source main --> create new branch \
-Copy brach name \
-*Github* git pull *Så den ved at der forfindes en ny branch* \
-git checkout *Paste branch name* \
-*Du er nu i den nye branch* \
-*You can merge branch in Github*
+Lumen omhandler hvor meget lys og mørke der er i farven. *Kontrast* \
+Så dermed kan jeg påvirke hvor lys min farve blive, eller gøre den mere mørk hvis det er ønsket. 
 
-
-## Error
-**Another git process seems to be running in this repository**
-rm -f .git/index.lock *reset hidden file and commands*
-Git pull
