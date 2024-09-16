@@ -13,6 +13,7 @@ def keyPressed():
         for j in range(0,10):
             r = randint(1,6)
             if r == 1:
+                strokeWeight(2);
                 stroke(0,100,200)
                 line(5+25*i,5+25*j,5+25*i,20+25*j)
                 line(5+25*i,20+25*j,20+25*i,20+25*j)
